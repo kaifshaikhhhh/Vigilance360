@@ -1,35 +1,6 @@
 # Vigilance360
 
-## Project Details 📔
-
-<aside>
-
-</aside>
-
-**Group Members (5)**
-
-- Kaif Shaikh — 20210802068
-- Syed Aman Shah — 20210802017
-- Aaliya Sutar — 20210802080
-- Sahil Rathod — 20210802096
-- Karan Tate — 20210802147
-
-<aside>
-
-**Project Details**
-
-</aside>
-
-- **Subject:  IIS Project**
-- **Topic Name: Smart Security System**
-- **Project Name: Vigilance360**
-- **Total Work Hours: 18½ Hours**
-
----
-
 # Table of Contents 📑
-
----
 
 # Abstract 📜
 

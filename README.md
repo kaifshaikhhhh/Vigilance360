@@ -1,7 +1,5 @@
 # Vigilance360
 
-# Table of Contents 📑
-
 # Abstract 📜
 
 **Vigilance360** is a state-of-the-art security system that utilizes the ***NodeMCU (ESP8266) microcontroller*** and ***R307 biometric scanner*** to provide secure access control for homes, offices, and lockers. This system is designed to ensure that only authorized individuals are granted access to restricted areas or valuable assets while keeping unauthorized parties out.
